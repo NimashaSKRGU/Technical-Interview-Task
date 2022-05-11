@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# Technical-Interview-Task
-=======
-<<<<<<< HEAD
-# Technical-Interview-Task
-=======
-# Technical Interview Task
-
 ## API endpoints
 
 - GET `/preload`: Load the GitHub data source and store it as a session variable (`item_list`). Preload function is called before any requests are served in order to load the data into `item_list` session variable.
@@ -17,5 +9,3 @@
 
 - Validate the form fields
 - Use permanent storage instead of using session storage
->>>>>>> 45a3dd5 (initial)
->>>>>>> b94c4d0 (interview-task)
