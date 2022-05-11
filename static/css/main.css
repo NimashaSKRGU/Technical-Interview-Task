@@ -1,0 +1,15 @@
+.delete {
+    background-color: brown;
+}
+
+label {
+    margin-left: 10px;
+}
+
+input {
+    margin-left: 5px;
+}
+
+.input-group-prepend {
+    margin-left: 5px;
+}
